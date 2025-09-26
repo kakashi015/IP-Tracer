@@ -17,7 +17,7 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and 
 
 * `cd IP-Tracer`
 
-* `chmod +x install`
+* `chmod +x ip-tracer
 
 * `sh install` or `./install`
 
